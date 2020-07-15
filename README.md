@@ -7,3 +7,5 @@ I'm Lucas, Software Engineer at <b>[Reply](https://www.reply.com)</b>
 - :robot: I have experience with chatbots
 - :computer: I have experience with Platform development...
 - 💬 I can help you with Java, Angular, Javascript, Spring, Golang, NodeJS and others ..
+
+[![Linkedin Badge](https://img.shields.io/badge/-lucasrsouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasrsouza-ti/)](https://www.linkedin.com/in/lucasrsouza-ti/)
