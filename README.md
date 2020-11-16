@@ -24,5 +24,5 @@ I'm Lucas, Software Developer at  <b>[idwall](https://www.idwall.co)</b>
 
 **My stats:**  
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luccasdev&show_icons=true&theme=radical)
+<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luccasdev&show_icons=true&theme=radical) !-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccasdev&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
