@@ -12,16 +12,6 @@ I'm Lucas, Software Developer at  <b>[Itaú](https://itau.com.br)</b>
 - :computer: I have experience with Platform development...
 - 💬 I can help you with Java, Angular, Spring Framework, Microservices, Javascript, Golang, NodeJS and others ..
 
-<p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/><img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> 
-  <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="20" height="20"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="20" height="20"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/> 
-</p>
-
 **My stats:**  
 
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luccasdev&show_icons=true&theme=radical) !-->
