@@ -4,10 +4,9 @@
 
 Welcome, 
 
-I'm Lucas, Software Developer at  <b>[Itaú](https://itau.com.br)</b>
+I'm Lucas, Software Developer
 
 
-- :bank: I’m currently working on a the largest bank in latin america.
 - :robot: I have experience with chatbots
 - :computer: I have experience with Platform development...
 - 💬 I can help you with Java, Angular, Spring Framework, Microservices, Javascript, Golang, NodeJS and others ..
